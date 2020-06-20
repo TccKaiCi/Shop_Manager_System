@@ -10,7 +10,7 @@
 
 | Thư mục | DTO | DAO | BUS | GUI | Lib | Image | Mô hình thực thể kết hợp | Cơ sở dữ liệu |
 |---| ----- | ----- | ----- | ----- | ----- | ----- |   ----- |  ----- |
-| Link | [DTO](./src/ShoesManager/DTO) | [DAO](./src/ShoesManager/DAO) | [BUS](./src/ShoesManager/BUS) | [GUI](./src/ShoesManager/GUI) | [Lib](./src/ShoesManager/lib) | [Image](./src/ShoesManager/images) | [DataBase](./src/DataBase.PNG) | [ERD](./src/phpAdminSQL.sql) |
+| Link | [DTO](./src/ShoesManager/DTO) | [DAO](./src/ShoesManager/DAO) | [BUS](./src/ShoesManager/BUS) | [GUI](./src/ShoesManager/GUI) | [Lib](./src/ShoesManager/lib) | [Image](./src/ShoesManager/images) | [ERD](./src/ReadMe/Database.png) | [DataBase](./src/Database/qlcuahanggiaydb.sql) |
 
 # Thông tin chung
 - Phần mềm “Quản Lý Cửa Hàng Giày” dành cho cách cửa hàng bán giày hoặc các cửa hàng bán mặc hàng khác muốn kiểm soát công việc 1 cách tốt hơn.<br>
