@@ -1,5 +1,3 @@
-# Giới Thiệu Phần Mềm
-
 # Phần mềm Quản lý cửa hàng Giày
 
 ## Team
