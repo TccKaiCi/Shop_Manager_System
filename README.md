@@ -1,10 +1,13 @@
 # Phần mềm Quản lý cửa hàng Giày
 
+![Language](https://img.shields.io/badge/Language-Java-orange.svg)
+![Team](https://img.shields.io/badge/Team-SGU-00ffff.svg)
+
 ## Team
-| stt | Họ Tên  | Phần trăm việc làm |
-|---| ----- | ----- |
-| 1 | Tăng Chí Chung | 60% |
-| 2 | Nguyễn Tuấn Anh | 40% |
+| MSSV | Họ và Tên  | Phần trăm việc làm |
+|------| ----- | ----- |
+| 3118410043 | Tăng Chí Chung | 60% |
+| 3118410028 | Nguyễn Tuấn Anh | 40% |
 
 ## Các thư mục chủ yếu
 | Thư mục | DTO | DAO | BUS | GUI | Lib | Image | Mô hình thực thể kết hợp | Cơ sở dữ liệu |
@@ -18,24 +21,24 @@
 - Mọi mã đều là tự động.
 - Phần mềm với dữ liệu đã chuẩn hóa lên 3NF với mô hình 3 lớp kết nối chặt chẽ tránh bị mất và sai sót thông tin.
 # Chức Năng Của Phần Mềm
-## Người dùng đăng nhập, phần mêm có phân làm 6 quyền<br>
+### Người dùng đăng nhập, phần mêm có phân làm 6 quyền<br>
 - Chủ cửa hàng sẽ bao gồm tất cả chức năng.<br>
 -	Thư ký, là người sẽ thống kê và nhập xuất file excel.
 -	Nhân viên kiểm tra hàng hóa.
 -	Nhân viên nhập hàng.
 -	Nhân viên làm khuyến mãi.
 -	Nhân viên lập hóa đơn.<br>
-## Excel<br>
+### Excel<br>
 -	Sẽ đọc file excel và xuất file excel.<br>
 Thống kê<br>
 -	Thống kê doanh thu theo ngày, quý, tháng và năm.
 -	Hiển thị ra tổng thu và tổng chi, sau đó tính ra lợi nhuận.
 -	Hiển thị số tiền hóa đơn cao nhất và thấp nhất.
-## Sản phẩm<br>
+### Sản phẩm<br>
 -	Nhân viên kiểm tra hàng hóa sẽ thêm sản phẩm mới và sửa xóa sản phẩm.
-## Nhập hàng
+### Nhập hàng
 -	Tạo mới 1 phiếu nhập và ghi thông tin chi tiết của phiếu nhập đó với tùng sản phẩm mà người dùng nhập.
-## Khuyến mãi<br>
+### Khuyến mãi<br>
 -	Tạo mới 1 mã khuyến mãi và cho biết thời gian khuyến mãi của chương trình khuyến mãi đó đối với những loại sản phẩm nào với tỉ lệ khuyến mãi là bao nhiêu.
 Hóa đơn<br>
 -	Tạo 1 hóa đơn với các thông tin chi tiết của hóa đơn đó.
