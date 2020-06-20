@@ -8,6 +8,7 @@
 | 1 | Tăng Chí Chung | 60% |
 | 2 | Nguyễn Tuấn Anh | 40% |
 
+## Các thư mục chủ yếu
 | Thư mục | DTO | DAO | BUS | GUI | Lib | Image | Mô hình thực thể kết hợp | Cơ sở dữ liệu |
 |---| ----- | ----- | ----- | ----- | ----- | ----- |   ----- |  ----- |
 | Link | [DTO](./src/ShoesManager/DTO) | [DAO](./src/ShoesManager/DAO) | [BUS](./src/ShoesManager/BUS) | [GUI](./src/ShoesManager/GUI) | [Lib](./src/ShoesManager/lib) | [Image](./src/ShoesManager/images) | [ERD](./src/ReadMe/Database.png) | [DataBase](./src/Database/qlcuahanggiaydb.sql) |
