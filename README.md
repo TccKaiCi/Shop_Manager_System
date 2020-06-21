@@ -1,7 +1,7 @@
 # Phần mềm Quản lý cửa hàng Giày
 
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
-![Team](https://img.shields.io/badge/Team-SGU-00ffff.svg)
+![Language](https://img.shields.io/badge/Team-SGU-orange.svg)
 
 ## Team
 | MSSV | Họ và Tên  | Phần trăm việc làm |
