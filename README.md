@@ -6,8 +6,8 @@
 ## Team
 | MSSV | Họ và Tên  | Phần trăm việc làm |
 |------| ----- | ----- |
+| 3118410013 | Nguyễn Tuấn Anh | 40% |
 | 3118410043 | Tăng Chí Chung | 60% |
-| 3118410028 | Nguyễn Tuấn Anh | 40% |
 
 ## Các thư mục chủ yếu
 | Thư mục | DTO | DAO | BUS | GUI | Lib | Image | Mô hình thực thể kết hợp | Cơ sở dữ liệu |
