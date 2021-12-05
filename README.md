@@ -1,4 +1,5 @@
-# Phần mềm Quản lý cửa hàng Giày
+# Phần mềm Quản lý cửa hàng Giày 
+# [Video Demo](https://youtu.be/O0oeEG6SngA)
 
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Language](https://img.shields.io/badge/Team-SGU-orange.svg)
