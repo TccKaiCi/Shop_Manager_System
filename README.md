@@ -1,7 +1,5 @@
 # Phần mềm Quản lý cửa hàng Giày || [Video Demo](https://youtu.be/O0oeEG6SngA)
 
-## Lời nói đầu: Vì đây là đồ án sinh viên, nên mình sẽ không chịu trắc nhiệm các vấn đề khác về phần mềm, các vấn đề nộp src của mình cho đồ án của bạn. Mình tạo repo này cho việc tham khảo đối với mọi người.
-
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Language](https://img.shields.io/badge/Team-SGU-orange.svg)
 
